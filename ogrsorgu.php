@@ -93,7 +93,7 @@
               </div>
               <!-- /.card-header -->
               <!-- form start -->
-              <form method="POST" action="ogrsorgu1.php">
+              <form method="POST" action="ogrgoruntuleme.php">
                 <div class="card-body">
                   <div class="form-group">
                     <label for="exampleInputEmail1">Öğrenci No</label>
